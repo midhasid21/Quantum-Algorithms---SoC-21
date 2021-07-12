@@ -4,7 +4,7 @@
 We begin with the (somewhat vague) definition of quantum computation and quantum information - "The study of information processing with the aid of quantum mechanics". This served as our starting point. Then we got to know about a brief history of information theory and computer science, and saw where the need for quantum computation arised. We learned that a quantum computer can carry out any classical computation.
 
 Just like the _bit_ in classical computation, in quantum computation we deal with _qubits_. The basic difference between them arises from the fact that qubits can exist in _superposition_. We adopt the dirac notation from quantum mechanics, and denote our fundamental unit of quantum computation - the qubit - as,
- $$|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$$
+$$|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$$
 where the 0 and 1 'basic states' (enclosed in the _ket_) are our quantum analogues of the classical bits 0 and 1, and, the coefficients satisfy a property called normalisation. Our qubit exists in a linear superposition of these 'basic' states.
 
 In the above equation lies the heart of the matter - We do not know what the quantum computer is made of - nor do we need to - we studied the abstract concept of a qubit, which enables us to study this further without worrying about any physical realisation. Moreover, the '+' in the said equation plays a key role (Superposition!).
