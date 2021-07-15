@@ -19,7 +19,7 @@ With these tools in hand, we studied the postulates of quantum mechanics. Then w
 ## Quantum Circuits
 Here, we delved into details of the notion of a qubit, and learned about the _gates_ used for quantum computation. We saw some fundamental quantum gates and discussed associated decompositions of arbitrary quantum gates in terms of the former. 
  
-We started to look at the basic operations that can be performed on qubits by these gates such as modular addition. Then we extended this idea by looking at _controlled operations_ to move on to circuits likt the Quantum SWAP.
+We started to look at the basic operations that can be performed on qubits by these gates such as modular addition. Then we extended this idea by looking at _controlled operations_ to move on to circuits like the Quantum SWAP.
 
 We studied the concept of _oracles_ and implemented the same for algorithms such as the Deutch-Josza algorithm. 
 
@@ -33,4 +33,4 @@ Just like the discrete fourier transform is a powerful tool in classical computa
 ## Quantum Search 
 We learned about the _Grover's Search Algorithm_ and how it is implemented as an oracle in quantum circuit. We appreciated the quadratic increase in speed that this algorithm enables in the paradigm of "search problems" as compared to classical search algorithms. Then after looking at the algorithm from a geometric perspective we looked at the computational resources required for implementing the same.
 ## In the end
-It does matter. Throughout the project we noticed certain nitty gritties that play a role in the algorithms - from phase kickback to the _Hadamard Magic_. To conclude, we developed a basic idea of the math (Linear Algebra!) behind the physics of it all, and the physics behind the implementation of the algorithms, and impleented some of the algorithms.
+It does matter. Throughout the project we noticed certain nitty gritties that play a role in the algorithms - from phase kickback to the _Hadamard Magic_. To conclude, we developed a basic idea of the math (Linear Algebra!) behind the physics of it all, and the physics behind the implementation of the algorithms, and implemented some of the algorithms.
