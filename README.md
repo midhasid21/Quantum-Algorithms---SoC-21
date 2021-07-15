@@ -34,3 +34,10 @@ Just like the discrete fourier transform is a powerful tool in classical computa
 We learned about the _Grover's Search Algorithm_ and how it is implemented as an oracle in quantum circuit. We appreciated the quadratic increase in speed that this algorithm enables in the paradigm of "search problems" as compared to classical search algorithms. Then after looking at the algorithm from a geometric perspective we looked at the computational resources required for implementing the same.
 ## In the end
 It does matter. Throughout the project we noticed certain nitty gritties that play a role in the algorithms - from phase kickback to the _Hadamard Magic_. To conclude, we developed a basic idea of the math (Linear Algebra!) behind the physics of it all, and the physics behind the implementation of the algorithms, and implemented some of the algorithms.
+### Note
+One can see the algorithms rendered properly in the following links
+1. [Bernstein-Vazirani Algorithm](https://mybinder.org/v2/gh/midhasid21/Quantum-Algorithms---SoC-21/main?filepath=Bernstein-Vazirani%20Algorithm.ipynb)
+2. [Deutsch-Josza Algorithm](https://mybinder.org/v2/gh/midhasid21/Quantum-Algorithms---SoC-21/main?filepath=Deutsch-Jozsa%20Algorithm%20.ipynb)
+3. [Super Dense Coding]()
+4. [Quantum Fourier Transform]()
+5. [Grover's Algorithm](https://mybinder.org/v2/gh/midhasid21/Quantum-Algorithms---SoC-21/main?filepath=Grover%27s%20Algorithm.ipynb)
