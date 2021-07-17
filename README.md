@@ -39,5 +39,5 @@ One can see the algorithms rendered properly in the following links
 1. [Bernstein-Vazirani Algorithm](https://mybinder.org/v2/gh/midhasid21/Quantum-Algorithms---SoC-21/main?filepath=Bernstein-Vazirani%20Algorithm.ipynb)
 2. [Deutsch-Josza Algorithm](https://mybinder.org/v2/gh/midhasid21/Quantum-Algorithms---SoC-21/main?filepath=Deutsch-Jozsa%20Algorithm%20.ipynb)
 3. [SuperDense Coding](https://mybinder.org/v2/gh/midhasid21/Quantum-Algorithms---SoC-21/main?filepath=SuperDense%20Coding.ipynb)
-4. [Quantum Fourier Transform]()
+4. [Quantum Fourier Transform](https://mybinder.org/v2/gh/midhasid21/Quantum-Algorithms---SoC-21/main?filepath=QFT.ipynb)
 5. [Grover's Algorithm](https://mybinder.org/v2/gh/midhasid21/Quantum-Algorithms---SoC-21/main?filepath=Grover%27s%20Algorithm.ipynb)
